@@ -1,5 +1,5 @@
-# Aircraft-and-Ship-Detection-using-Semantic-Segmentation
-✈️🚢 Aircraft and Ship Detection using Semantic Segmentation
+# ✈️🚢Aircraft-and-Ship-Detection-using-Semantic-Segmentation
+Aircraft and Ship Detection using Semantic Segmentation
 A deep learning project for semantic segmentation of aircraft and ships from satellite imagery using U-Net and enhanced Attention U-Net architectures with deformable convolutional layers.
 
 🔧**Tools & Technologies**
