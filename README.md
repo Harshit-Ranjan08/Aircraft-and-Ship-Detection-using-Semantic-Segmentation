@@ -95,3 +95,5 @@ Scalable for defense, maritime, and disaster response tasks
 
 📷 Sample Output:
 ![image](https://github.com/user-attachments/assets/fd1f7341-beac-4ecf-a17c-fe7bfcc20241)
+![image](https://github.com/user-attachments/assets/82a341f3-3956-4c1e-9f00-5c2b2c2776a9)
+
